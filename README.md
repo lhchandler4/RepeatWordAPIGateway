@@ -8,4 +8,6 @@
         - example link: https://u994l1ee1e.execute-api.us-west-2.amazonaws.com/repeatword?iput=I went to the park to play
         - output will be 'to'
     
-
+##Screen Shots for Lambda Warmer
+- ![](./src/main/resources/Images/LamdaWarmer1.png)
+- ![](./src/main/resources/Images/LambdaWarmer2.png)
